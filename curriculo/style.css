@@ -12,6 +12,7 @@
 .imagem-perfil {
     text-align: center;
     margin-bottom: 20px;
+    margin-left: 40%;
 }
 
 .imagem-perfil img{
@@ -74,6 +75,10 @@ body{
 
 ul{
     margin-left: -22px;
+}
+a{
+    text-decoration: none;
+    color: rgb(12, 68, 199);
 }
 
 
